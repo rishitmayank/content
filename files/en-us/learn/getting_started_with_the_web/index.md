@@ -9,7 +9,7 @@ tags:
   - HTML
   - Index
   - l10n:priority
-  - publishing
+  - published
   - theory
 ---
 {{LearnSidebar}}
